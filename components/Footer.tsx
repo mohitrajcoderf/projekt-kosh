@@ -6,9 +6,9 @@ const Footer = () => {
     <section className="max-w-7xl mx-auto border-t px-4">
       <div className="flex justify-between py-8">
         <p className="text-primary tracking-tight">
-          Designed and Developed by{" "}
-          <Link href={"https://keshavbagaade.com"} className="font-bold">
-            Keshav
+          Developed by{" "}
+          <Link href={"https://github.com/mohitrajcoderf"} className="font-bold">
+            Mohit
           </Link>
         </p>
       </div>
